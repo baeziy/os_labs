@@ -1,4 +1,5 @@
 #include <stdio.h>
-void main(int argc, char *argv[]){
+int main(int argc, char *argv[]){
 	printf("I love pizza!");
+	return 0;
 }
